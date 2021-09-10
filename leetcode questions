@@ -1,0 +1,6 @@
+1. Leetcode 175： Combine two tables (考察 join） 
+SELECT ### 
+FROM A
+LEFT JOIN B
+ON A.key = B.key
+source: https://www.mysqltutorial.org/mysql-join/
